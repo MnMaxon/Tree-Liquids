@@ -1,0 +1,7 @@
+name: TreeLiquids
+version: 1.0
+main: me.MnMaxon.TreeLiquids.Main
+commands:
+  TreeLiquids:
+    description: Reloads the plugin
+    usage: /TreeLiquids
